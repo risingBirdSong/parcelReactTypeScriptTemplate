@@ -1,0 +1,25 @@
+{
+  "name": "parcelReactTypeScriptTemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/risingBirdSong/parcelReactTypeScriptTemplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/risingBirdSong/parcelReactTypeScriptTemplate/issues"
+  },
+  "homepage": "https://github.com/risingBirdSong/parcelReactTypeScriptTemplate#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
